@@ -1,0 +1,157 @@
+Column,Mean,Min,Max,Source,N_Obs,Estuary
+mhws10,1.059241145,1.040394425,1.071357608,MHw_akaroa_mask0,2253,Akaroa
+hat,1.311137217,1.289416552,1.325692058,MHw_akaroa_mask0,2253,Akaroa
+lat,-1.33333417,-1.350350142,-1.309124351,MHw_akaroa_mask0,2253,Akaroa
+mhws10,1.344448399,1.293965578,1.517274737,MHw_aotea _mask0,1453,Aotea
+hat,1.597607153,1.529689908,1.884075046,MHw_aotea _mask0,1453,Aotea
+lat,-1.447389877,-1.84546423,-1.407029629,MHw_aotea _mask0,1453,Aotea
+mhws10,0.72508874,0.642892778,0.857210755,MHw_avon_heathcote_mask0,284,Avon heathcote
+hat,0.799798767,0.710424185,0.973496974,MHw_avon_heathcote_mask0,284,Avon heathcote
+lat,-0.176876962,-0.383177906,0.299692094,MHw_avon_heathcote_mask0,284,Avon heathcote
+mhws10,-0.043193058,-0.212300003,0,MHw_blueskin_mask0,51,Blueskin
+hat,-0.043166457,-0.212300003,0,MHw_blueskin_mask0,51,Blueskin
+lat,-0.043298572,-0.212300003,0,MHw_blueskin_mask0,51,Blueskin
+mhws10,1.179915264,0.598548532,1.256149173,MHw_bluff_mask0,219,Bluff
+hat,1.437868377,0.601275802,1.546420574,MHw_bluff_mask0,219,Bluff
+lat,-1.475255354,-1.724353433,0.587921441,MHw_bluff_mask0,219,Bluff
+mhws10,1.457816156,1.411297202,1.4788903,MHw_coromandel_mask0,1805,Coromandel
+hat,1.773667252,1.717875481,1.79682219,MHw_coromandel_mask0,1805,Coromandel
+lat,-1.70825043,-1.726214767,-1.676649094,MHw_coromandel_mask0,1805,Coromandel
+mhws10,1.709405351,-4.121530533,1.724046707,MHw_croisilles_mask0,2579,Croisilles
+hat,2.163878123,-4.121528149,2.181120634,MHw_croisilles_mask0,2579,Croisilles
+lat,-2.137554146,-4.1215415,-0.710455418,MHw_croisilles_mask0,2579,Croisilles
+mhws10,1.100044533,1.098404527,1.115695477,MHw_fitzroy_abercrombie_mask0,19,Fizroy Abercrombie
+hat,1.354657412,1.35285306,1.372642636,MHw_fitzroy_abercrombie_mask0,19,Fizroy Abercrombie
+lat,-1.364633924,-1.379985571,-1.363290429,MHw_fitzroy_abercrombie_mask0,19,Fizroy Abercrombie
+mhws10,1.484877235,1.351030469,1.621883631,MHw_hokianga_mask0,3459,Hokianga
+hat,1.821482481,1.666797519,1.991387486,MHw_hokianga_mask0,3459,Hokianga
+lat,-1.842972201,-1.984924316,-1.624891758,MHw_hokianga_mask0,3459,Hokianga
+mhws10,1.064884632,1.03956604,1.078831911,MHw_houhora_mask0,1334,Houhora
+hat,1.298793555,1.284413576,1.310888886,MHw_houhora_mask0,1334,Houhora
+lat,-1.32507657,-1.340179682,-1.305301785,MHw_houhora_mask0,1334,Houhora
+mhws10,1.047407302,0.819564044,1.087257624,MHw_jacobs_river_mask0,710,Jacobs river
+hat,1.234927773,0.929260612,1.287939787,MHw_jacobs_river_mask0,710,Jacobs river
+lat,-1.150465554,-1.211265802,-0.300564766,MHw_jacobs_river_mask0,710,Jacobs river
+mhws10,1.51487861,1.267451167,1.722314596,MHw_kaipara_mask0,16722,Kaipara
+hat,1.818351879,1.401493549,2.084159613,MHw_kaipara_mask0,16722,Kaipara
+lat,-1.823794761,-2.154713869,0.312439442,MHw_kaipara_mask0,16722,Kaipara
+mhws10,1.548666265,1.493250728,1.576444149,MHw_kawhia_mask0,3048,Kawhia
+hat,1.910403589,1.823061943,1.949648023,MHw_kawhia_mask0,3048,Kawhia
+lat,-1.920537908,-1.995542765,-1.725288391,MHw_kawhia_mask0,3048,Kawhia
+mhws10,1.055105958,1.043834805,1.068423152,MHw_kerikeri_tepuna_mask0,1410,Kerikeri
+hat,1.302009813,1.287941337,1.319329619,MHw_kerikeri_tepuna_mask0,1410,Kerikeri
+lat,-1.309226004,-1.325961113,-1.28971076,MHw_kerikeri_tepuna_mask0,1410,Kerikeri
+mhws10,0.735301282,0.704898477,0.915306568,MHw_littlewaihi_mask0,121,Little Waihi
+hat,0.814916859,0.772373557,1.126743317,MHw_littlewaihi_mask0,121,Little Waihi
+lat,-0.571451728,-1.180832028,-0.471321315,MHw_littlewaihi_mask0,121,Little Waihi
+mhws10,1.11213982,1.053813577,1.133023739,MHw_lyttleton_mask0,1211,Lyttleton
+hat,1.378741327,1.257261992,1.401978016,MHw_lyttleton_mask0,1211,Lyttleton
+lat,-1.353984693,-1.380599141,-1.088917255,MHw_lyttleton_mask0,1211,Lyttleton
+mhws10,1.338245959,1.315702438,1.355007052,MHw_Mahurangi_mask0,954,Mahurangi
+hat,1.633225314,1.607420206,1.652537346,MHw_Mahurangi_mask0,954,Mahurangi
+lat,-1.58842866,-1.611634016,-1.566850066,MHw_Mahurangi_mask0,954,Mahurangi
+mhws10,1.476139097,1.474151969,1.477882504,MHw_manaia_mask0,134,Manaia
+hat,1.794137356,1.791841149,1.796577573,MHw_manaia_mask0,134,Manaia
+lat,-1.722039136,-1.723569512,-1.718976974,MHw_manaia_mask0,134,Manaia
+mhws10,1.049083189,1.042939663,1.052204967,MHw_mangonui_mask0,2179,Mangonui
+hat,1.301089908,1.292090178,1.304347754,MHw_mangonui_mask0,2179,Mangonui
+lat,-1.315044152,-1.320749879,-1.292828441,MHw_mangonui_mask0,2179,Mangonui
+mhws10,1.717373587,1.427601218,1.841518879,MHw_manukau_mask0,11611,Manukau
+hat,2.101092563,1.765868187,2.234998941,MHw_manukau_mask0,11611,Manukau
+lat,-2.142335221,-2.307253361,-1.180605054,MHw_manukau_mask0,11611,Manukau
+mhws10,1.792764221,1.658012152,1.814000964,MHw_moutere_mask0,1018,Moutere
+hat,2.251308173,1.996063471,2.291079998,MHw_moutere_mask0,1018,Moutere
+lat,-2.179065361,-2.263344049,-1.634558916,MHw_moutere_mask0,1018,Moutere
+mhws10,1.761233077,0,1.851475477,MHw_nelsonhaven_mask0,1240,Nelson haven
+hat,2.204830989,0,2.314581156,MHw_nelsonhaven_mask0,1240,Nelson haven
+lat,-2.157180747,-2.268266678,0,MHw_nelsonhaven_mask0,1240,Nelson haven
+mhws10,1.063554904,-0.352088958,1.258592963,MHw_newriver_mask0,2169,New river
+hat,1.251812518,-0.351980746,1.566023231,MHw_newriver_mask0,2169,New river
+lat,-1.060256743,-1.759865403,-0.045867514,MHw_newriver_mask0,2169,New river
+mhws10,0.868617059,0.796988904,0.897243798,MHw_ohiwa_mask0,1215,Ohiwa
+hat,1.051927407,0.968180537,1.109698892,MHw_ohiwa_mask0,1215,Ohiwa
+lat,-0.990432529,-1.154637694,-0.588270426,MHw_ohiwa_mask0,1215,Ohiwa
+mhws10,1.073179385,1.062329888,1.085046411,MHw_opua_mask0,377,Opua
+hat,1.327242956,1.311879992,1.345680952,MHw_opua_mask0,377,Opua
+lat,-1.321688612,-1.33621192,-1.304326653,MHw_opua_mask0,377,Opua
+mhws10,1.005675289,0.920648456,1.052190661,MHw_otago_mask0,14004,Otago
+hat,1.23151519,1.136360407,1.280675411,MHw_otago_mask0,14004,Otago
+lat,-1.282146862,-1.351764202,-1.147518516,MHw_otago_mask0,14004,Otago
+mhws10,1.018614696,0.9475016,1.042084455,MHw_Parengarenga_mask0,6114,Parengarenga
+hat,1.240361023,1.098609447,1.283523917,MHw_Parengarenga_mask0,6114,Parengarenga
+lat,-1.182789138,-1.274307609,-0.466804206,MHw_Parengarenga_mask0,6114,Parengarenga
+mhws10,1.093953207,1.040356874,1.115036726,MHw_patterson_bigglory_mask0,786,Patterson Big glory
+hat,1.350444679,1.28324306,1.375152469,MHw_patterson_bigglory_mask0,786,Patterson Big glory
+lat,-1.44921306,-1.480035067,-1.326692462,MHw_patterson_bigglory_mask0,786,Patterson Big glory
+mhws10,1.191715607,0,1.723847866,MHw_pelorus_kenepuru_mask0,25432,Pelorus kenepuru
+hat,1.510455235,0,2.180950165,MHw_pelorus_kenepuru_mask0,25432,Pelorus kenepuru
+lat,-1.463269077,-2.443286181,0,MHw_pelorus_kenepuru_mask0,25432,Pelorus kenepuru
+mhws10,0.622922152,0.596805036,0.635574818,MHw_porirua_mask0,1681,Porirua
+hat,0.796341637,0.746554732,0.812617064,MHw_porirua_mask0,1681,Porirua
+lat,-0.736740468,-0.756712615,-0.646063209,MHw_porirua_mask0,1681,Porirua
+mhws10,1.444290743,-0.789582014,1.455888391,MHw_porthardy_mask0,884,Port hardy
+hat,1.834780829,-0.292889267,1.848380685,MHw_porthardy_mask0,884,Port hardy
+lat,-1.797278937,-4.222936153,-1.485598564,MHw_porthardy_mask0,884,Port hardy
+mhws10,1.223808501,1.200322747,1.249520898,MHw_portpegasus_mask0,140,Port pegasus
+hat,1.501989921,1.477695465,1.531709194,MHw_portpegasus_mask0,140,Port pegasus
+lat,-1.636484098,-1.665008903,-1.616330981,MHw_portpegasus_mask0,140,Port pegasus
+mhws10,0.660007106,0.640978813,0.662852287,MHw_portunderwood_mask0,1321,Port underwood
+hat,0.838549828,0.815257549,0.842128038,MHw_portunderwood_mask0,1321,Port underwood
+lat,-0.849810736,-0.854012012,-0.834994614,MHw_portunderwood_mask0,1321,Port underwood
+mhws10,0.707937866,0,1.161967158,MHw_queencharlotte_mask0,17951,Queen Charlotte
+hat,0.884061308,0,1.462314844,MHw_queencharlotte_mask0,17951,Queen Charlotte
+lat,-0.928298498,-1.448220849,0,MHw_queencharlotte_mask0,17951,Queen Charlotte
+mhws10,1.556604531,1.44558692,1.592259288,MHw_raglan_mask0,5263,Raglan
+hat,1.923626145,1.74911952,1.968886256,MHw_raglan_mask0,5263,Raglan
+lat,-1.910360907,-1.964124918,-1.418232083,MHw_raglan_mask0,5263,Raglan
+mhws10,1.85142506,1.835899472,1.854258418,MHw_ruataniwha_mask0,313,Ruataniwha
+hat,2.318672358,2.289382935,2.322505474,MHw_ruataniwha_mask0,313,Ruataniwha
+lat,-2.285702117,-2.292673349,-2.22609067,MHw_ruataniwha_mask0,313,Ruataniwha
+mhws10,0.797212222,0.784339547,0.884955943,MHw_tairua_mask0,698,Tairua
+hat,0.923010701,0.908469439,1.088215113,MHw_tairua_mask0,698,Tairua
+lat,-0.609170251,-1.112609267,-0.578239262,MHw_tairua_mask0,698,Tairua
+mhws10,1.479201726,1.458550215,1.502988577,MHw_tamaki_mask0,2603,Tamaki
+hat,1.794385113,1.765238404,1.820600986,MHw_tamaki_mask0,2603,Tamaki
+lat,-1.746562175,-1.782429934,-1.650859475,MHw_tamaki_mask0,2603,Tamaki
+mhws10,0.91809813,0.799183488,0.975952804,MHw_tauranga_mask0,13156,Tauranga
+hat,1.117514072,0.981377602,1.1882478,MHw_tauranga_mask0,13156,Tauranga
+lat,-1.114664373,-1.232420683,-0.432360798,MHw_tauranga_mask0,13156,Tauranga
+mhws10,1.624370577,1.485002756,1.694711089,MHw_thames_mask0,9283,Thames
+hat,1.966099239,1.803986669,2.046741962,MHw_thames_mask0,9283,Thames
+lat,-1.878444341,-1.970164061,-1.722735047,MHw_thames_mask0,9283,Thames
+mhws10,1.092432785,0.710604787,1.150863647,MHw_waikawa_mask0,452,Waikawa
+hat,1.324695561,0.760168612,1.4081918,MHw_waikawa_mask0,452,Waikawa
+lat,-1.272260273,-1.524979234,0.480312288,MHw_waikawa_mask0,452,Waikawa
+mhws10,1.757643084,1.546655893,1.81496799,MHw_waimea_inlet_mask0,1227,Waimea inlet
+hat,2.1645137,1.842158794,2.260195017,MHw_waimea_inlet_mask0,1227,Waimea inlet
+lat,-2.067208757,-2.1805408,-1.631944656,MHw_waimea_inlet_mask0,1227,Waimea inlet
+mhws10,1.532936909,1.389936686,1.616424441,MHw_waitemata_mask0,7906,Waitemata
+hat,1.860660019,1.644520283,1.970829129,MHw_waitemata_mask0,7906,Waitemata
+lat,-1.770958921,-1.836339235,-1.119257808,MHw_waitemata_mask0,7906,Waitemata
+mhws10,0.633675955,0.541217983,0.644166827,MHw_wellington_mask0,7654,Wellington
+hat,0.762467034,0.656470239,0.774585307,MHw_wellington_mask0,7654,Wellington
+lat,-0.72104214,-0.737060368,-0.667961121,MHw_wellington_mask0,7654,Wellington
+mhws10,1.18685288,0.953316927,1.641525865,MHw_whanganui_mask0,374,Whanganui
+hat,1.355519924,1.067326069,2.031837225,MHw_whanganui_mask0,374,Whanganui
+lat,-0.508329528,-2.137803078,0.209255219,MHw_whanganui_mask0,374,Whanganui
+mhws10,0.97295916,0.945431292,1.011764884,MHw_whangapoua_mask0,390,Whangapoua
+hat,1.173168817,1.126212597,1.246706247,MHw_whangapoua_mask0,390,Whangapoua
+lat,-1.073630211,-1.249060988,-0.964984834,MHw_whangapoua_mask0,390,Whangapoua
+mhws10,1.208428154,-0.253992647,1.299590111,MHw_whangarei_mask0,16920,Whangarei
+hat,1.488972591,-0.246346861,1.597891688,MHw_whangarei_mask0,16920,Whangarei
+lat,-1.45991035,-1.568353534,-0.278036088,MHw_whangarei_mask0,16920,Whangarei
+mhws10,1.052006121,1.032833576,1.065165043,MHw_whangaroa_mask0,1648,Whangaroa
+hat,1.304908009,1.282150745,1.320598364,MHw_whangaroa_mask0,1648,Whangaroa
+lat,-1.31933894,-1.334003925,-1.29325223,MHw_whangaroa_mask0,1648,Whangaroa
+mhws10,1.46803774,1.463446379,1.471379161,MHw_whitford_mask0,266,Whitford
+hat,1.786991208,1.78113997,1.791293502,MHw_whitford_mask0,266,Whitford
+lat,-1.727531234,-1.732784987,-1.717601419,MHw_whitford_mask0,266,Whitford
+mhws10,0.931920371,0.813587189,0.948380828,MHw_whitianga_mask0,3123,Whitianga
+hat,1.136647693,0.93573004,1.165660024,MHw_whitianga_mask0,3123,Whitianga
+lat,-1.107120872,-1.18639791,-0.459665775,MHw_whitianga_mask0,3123,Whitianga
+mhws10,1.117763664,1.036019444,1.154329777,Rangaunu_rawtides_mask0,14644,Rangaunu
+hat,1.368790907,1.269113183,1.418091059,Rangaunu_rawtides_mask0,14644,Rangaunu
+lat,-1.359595963,-1.399868965,-1.022024512,Rangaunu_rawtides_mask0,14644,Rangaunu
+mhws10,1.191317567,1.171355367,1.19742167,Whangateau_rawtides_mask0,3747,Whangateau
+hat,1.463704648,1.426933765,1.470274091,Whangateau_rawtides_mask0,3747,Whangateau
+lat,-1.442590672,-1.452005386,-1.366209745,Whangateau_rawtides_mask0,3747,Whangateau
