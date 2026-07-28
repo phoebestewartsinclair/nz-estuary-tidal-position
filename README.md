@@ -1,5 +1,4 @@
-[README.md](https://github.com/user-attachments/files/30440483/README.md)
-
+[README.md](https://github.com/user-attachments/files/30440752/README.md)
 # nz-estuary-tidal-position
 
 Code and data for a national synthesis of coastal wetland tidal position (STPI) across 47 New Zealand estuaries — LiDAR elevation, TELEMAC tidal modelling, and ordinal regression, accompanying Stewart-Sinclair et al., *Estuarine, Coastal and Shelf Science* (manuscript YECSS-D-26-00570).
@@ -8,7 +7,7 @@ Code and data for a national synthesis of coastal wetland tidal position (STPI) 
 
 If you use this code or data, please cite the accompanying paper [FULL CITATION — add once accepted] and this repository:
 
-[ZENODO DOI BADGE / CITATION — add after first release]
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21635140.svg)](https://doi.org/10.5281/zenodo.21635140)
 
 ## Pipeline overview
 
